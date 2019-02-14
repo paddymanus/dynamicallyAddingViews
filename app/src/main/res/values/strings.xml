@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">dynamicallyAddingViews</string>
+    <string name="hint_set">Set</string>
+    <string name="hint_weight">Weight</string>
+    <string name="hint_reps">Reps</string>
+</resources>
